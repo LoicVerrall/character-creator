@@ -29,6 +29,7 @@
   left: 60%;
   top: 30%;
   min-height: 500px;
+  min-width: 500px;
 }
 
 .controlColumn {
